@@ -1,1 +1,1 @@
-## Open main.ipynb to view the project
+Open main.ipynb to view the project
